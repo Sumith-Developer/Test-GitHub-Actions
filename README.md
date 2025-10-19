@@ -1,5 +1,7 @@
 # GitHub Actions Test
 
+[![Hello World](https://github.com/Sumith-Developer/Test-GitHub-Actions/actions/workflows/hello.yml/badge.svg)](https://github.com/Sumith-Developer/Test-GitHub-Actions/actions/workflows/hello.yml)
+
 This repository is for **learning and testing GitHub Actions**.
 
 ## 🚀 What It Does
